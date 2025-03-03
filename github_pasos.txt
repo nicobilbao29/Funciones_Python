@@ -8,3 +8,17 @@ Ahora que el repositorio ya está vinculado, usa los siguientes comandos para co
 git add .
 git commit -m "Subir funciones iniciales"
 git push origin main
+
+
+
+
+
+
+INICIAR UN NUEVO REPOSITORIO 
+
+GIT INIT 
+GIT ADD .
+GIT COMMIT -M " Primer commit"    git commit -m "Primer commit"
+git remote add origin https://github.com/nicobilbao29/nombre_del_repositorio.git
+                                             OJO nombre del repositorio 
+
