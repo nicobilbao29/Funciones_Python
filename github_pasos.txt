@@ -22,3 +22,4 @@ GIT COMMIT -M " Primer commit"    git commit -m "Primer commit"
 git remote add origin https://github.com/nicobilbao29/nombre_del_repositorio.git
                                              OJO nombre del repositorio 
 
+GIT PUSH ORIGIN MAIN     git push origin main   guardo y Actualizo en GITHUB
