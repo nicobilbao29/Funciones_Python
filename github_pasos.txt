@@ -1,0 +1,10 @@
+
+
+git remote -v   Significa que ya está conectado correctamente 
+
+Subir tus archivos a GitHub
+Ahora que el repositorio ya está vinculado, usa los siguientes comandos para confirmar los archivos y subirlos:
+
+git add .
+git commit -m "Subir funciones iniciales"
+git push origin main
